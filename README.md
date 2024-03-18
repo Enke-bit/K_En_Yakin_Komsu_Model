@@ -1,0 +1,3 @@
+- Bu projede k en yakın komşu methodu ile model kurulması yapılmıştır.
+- Bu kurulan modeller örnek veri setinde uygulanmıştır.
+- Temel anlamada k en yakın komşu modeli nasıl çalışır anlatmaya çalıştım. İyi çalışmalar.
